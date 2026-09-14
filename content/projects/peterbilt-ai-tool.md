@@ -1,5 +1,5 @@
 ---
-title: "AI-assisted engineering drawing tool"
+title: "AI-assisted Engineering Drawing Analysis Tool"
 subtitle: "Reduced a recurring drawing-information task from approximately five minutes to one minute per drawing."
 date: "May 2026 – Aug 2026"
 role: "Advanced Manufacturing Engineering Intern"
