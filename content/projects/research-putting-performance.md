@@ -10,13 +10,13 @@ featured: true
 order: 4
 draft: false
 status: "Research Underway"
-coverImage: ""
-coverAlt: ""
+coverImage: "projects/research/putter_research_pendulum.png"
+coverAlt: "Research Pendulum Stand Cad Drawing"
 coverPlaceholder: "Research setup image to be added"
 gallery:
-  - placeholder: "CAD image to be added"
+  - placeholder: "projects/research/putter_research_pendulum.png"
     caption: "ex caption"
-  - placeholder: "Prototype photo to be added"
+  - placeholder: "projects/research/Parker_Cole_Putter_Face_Research_One_Page_Proposal.pdf"
     caption: "ex caption"
   - placeholder: "Assembly detail photo to be added"
     caption: "ex caption"
