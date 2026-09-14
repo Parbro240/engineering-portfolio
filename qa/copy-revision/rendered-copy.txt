@@ -1,0 +1,481 @@
+dist\404.html
+META viewport: width=device-width, initial-scale=1
+Page Not Found | Parker Cole
+META description: This page may have moved or is no longer available. View my engineering projects to continue.
+META theme-color: #202523
+META robots: noindex
+META og:title: Page Not Found | Parker Cole
+META og:description: This page may have moved or is no longer available. View my engineering projects to continue.
+META og:type: website
+META og:locale: en_US
+META og:site_name: Parker Cole · Engineering Portfolio
+META og:image: https://parbro240.github.io/engineering-portfolio/social-preview.png
+META og:image:width: 1200
+META og:image:height: 630
+META og:image:alt: Parker Cole, Mechanical & Aerospace Engineering Student at Oklahoma State University.
+META twitter:card: summary_large_image
+META twitter:image: https://parbro240.github.io/engineering-portfolio/social-preview.png
+Skip to content
+PC.Parker ColeEngineering Portfolio home
+Menu +
+Projects
+Experience
+About
+Contact
+View Resume (PDF, opens in a new tab)↗
+404 / Page Not Found
+Page Not Found
+This page may have moved or is no longer available.
+View Projects
+Parker ColeMechanical & Aerospace Engineering Student
+Oklahoma State University
+Download Resume ↓
+Close ×
+
+dist\index.html
+META viewport: width=device-width, initial-scale=1
+Parker Cole | Mechanical & Aerospace Engineering Student
+META description: I'm Parker Cole, a Mechanical & Aerospace Engineering Student at Oklahoma State University. View my design projects, prototypes, and Peterbilt internship work.
+META theme-color: #202523
+META og:title: Parker Cole | Mechanical & Aerospace Engineering Student
+META og:description: I'm Parker Cole, a Mechanical & Aerospace Engineering Student at Oklahoma State University. View my design projects, prototypes, and Peterbilt internship work.
+META og:type: website
+META og:locale: en_US
+META og:site_name: Parker Cole · Engineering Portfolio
+META og:url: https://parbro240.github.io/engineering-portfolio/
+META og:image: https://parbro240.github.io/engineering-portfolio/social-preview.png
+META og:image:width: 1200
+META og:image:height: 630
+META og:image:alt: Parker Cole, Mechanical & Aerospace Engineering Student at Oklahoma State University.
+META twitter:card: summary_large_image
+META twitter:image: https://parbro240.github.io/engineering-portfolio/social-preview.png
+Skip to content
+PC.Parker ColeEngineering Portfolio home
+Menu +
+Projects
+Experience
+About
+Contact
+View Resume (PDF, opens in a new tab)↗
+Design · Manufacturing · Prototyping
+Parker Cole
+Mechanical & Aerospace Engineering Student
+Oklahoma State University
+I enjoy mechanical design, CAD, and building physical prototypes. At Peterbilt, I gained experience in advanced manufacturing engineering.
+View Projects ↓
+View Resume (PDF, opens in a new tab)↗
+Contact Me
+Engineering Skills01
+Design
+SolidWorks and Creo Parametric
+Mechanical design
+02
+Build
+Physical prototypes
+Additive manufacturing
+03
+Improve
+Design iteration
+Assembly and manufacturability
+Peterbilt Motors CompanyAdvanced Manufacturing Engineering Intern · May 2026 – August 2026GPA:4.00Expected Graduation:May 2028Certified SolidWorks Associate (CSWA)Minor in Mathematics
+01 · Projects
+Selected Engineering Projects
+All Projects ↗
+CAD and prototype images to be addedEngineering ProjectDesign · Additive Manufacturing01
+Custom Golf Putter Design & Prototyping
+I designed several mallet putter prototypes in SolidWorks and built physical versions to work through geometry, weight distribution, and assembly.
+View Case Study ↗
+Drawing Information Task5min→1minApproximate time per drawingManufacturing · Professional Experience02
+AI-Assisted Engineering Drawing Analysis Tool
+I developed an AI-assisted tool at Peterbilt that made information in engineering part drawings easier to find.
+View Case Study ↗
+Research setup image to be addedEngineering ProjectResearch · Design03
+Golf Putter Performance Research
+I've started putter face research under Dr. Xiang at Oklahoma State University to study how face materials and surface finishes affect ball motion.
+View Case Study ↗
+02 · Experience
+Engineering Experience
+May 2026 – August 2026
+Denton, Texas
+Peterbilt Motors Company
+Advanced Manufacturing Engineering Intern
+I supported the Chassis Powertrain and Cab & Outer Body groups on several advanced manufacturing engineering projects.
+I created and modified 3D models in Creo Parametric and worked with engineers across different areas of the plant.
+I developed an AI-assisted tool that reduced the time needed to find information in part drawings from about five minutes to one minute per drawing.
+I managed concurrent projects, presented progress each week, and gave a final presentation to engineering leadership.
+View Internship ↗
+May 2025 – August 2025
+Little Guys Movers
+Mover / Navigator
+I was promoted from Mover to Navigator within two weeks.
+I planned truck layouts and coordinated with teammates and customers to complete moves safely and on schedule.
+May 2024 – July 2024
+Sam's Club
+Merchandise & Stocking Associate
+I managed inventory, arranged and restocked merchandise, and helped customers while working with the store team.
+03 · About
+About Me
+Education
+Oklahoma State University
+Bachelor of Science, Mechanical and Aerospace Engineering
+Minor in Mathematics
+Expected Graduation: May 2028 · GPA: 4.00
+I'm a Mechanical & Aerospace Engineering Student at Oklahoma State University, with a minor in Mathematics and a 4.00 GPA. I enjoy using CAD and manufacturing methods to build and improve physical prototypes.
+I've designed custom putter prototypes in SolidWorks and worked with Creo Parametric during my internship at Peterbilt Motors Company. I'm looking for engineering internships where I can contribute to design, manufacturing, and prototyping while gaining more hands-on experience.
+Contact Me ↗
+Skills
+Technical and Professional Skills
+CAD and Design
+SolidWorks
+Certified SolidWorks Associate (CSWA)
+Creo Parametric (assemblies and drawings)
+Manufacturing and Prototyping
+Design for Assembly (DFA)
+Design for Manufacturability (DFM)
+Manual lathe and mill
+Additive manufacturing and 3D printing
+Rapid prototyping
+Programming and Tools
+Python
+Microsoft Office Suite
+Professional Skills
+Project management
+Technical communication
+Cross-functional collaboration
+Activities
+Leadership and Activities
+August 2026 – Present
+Cowboy Golf Club
+Founder & President · Pending University Approval
+I'm working with the university to establish Cowboy Golf Club and complete the approval process.
+January 2026 – Present
+Cowboy Rocketworks
+Member
+Oklahoma State University
+February 2026 – Present
+Oklahoma State University Running Club
+Member
+Oklahoma State University
+August 2024 – May 2026
+Oklahoma State University Bands
+Marching Band, University Band, Jazz Ensemble
+Oklahoma State University
+04 · Contact
+Contact
+I'm interested in engineering internships in design, manufacturing, and prototyping.
+Emailpacole06@icloud.com↗
+Phone(940) 808-2777↗
+ConnectLinkedIn (opens in a new tab)↗
+ResumeView Resume (opens in a new tab)↗
+Parker ColeMechanical & Aerospace Engineering Student
+Oklahoma State University
+Download Resume ↓
+Close ×
+
+dist\work\index.html
+META viewport: width=device-width, initial-scale=1
+Engineering Projects and Experience | Parker Cole
+META description: My engineering projects include custom putter prototypes, advanced manufacturing work at Peterbilt, an AI-assisted drawing tool, and putter face research.
+META theme-color: #202523
+META og:title: Engineering Projects and Experience | Parker Cole
+META og:description: My engineering projects include custom putter prototypes, advanced manufacturing work at Peterbilt, an AI-assisted drawing tool, and putter face research.
+META og:type: website
+META og:locale: en_US
+META og:site_name: Parker Cole · Engineering Portfolio
+META og:url: https://parbro240.github.io/engineering-portfolio/work/
+META og:image: https://parbro240.github.io/engineering-portfolio/social-preview.png
+META og:image:width: 1200
+META og:image:height: 630
+META og:image:alt: Parker Cole, Mechanical & Aerospace Engineering Student at Oklahoma State University.
+META twitter:card: summary_large_image
+META twitter:image: https://parbro240.github.io/engineering-portfolio/social-preview.png
+Skip to content
+PC.Parker ColeEngineering Portfolio home
+Menu +
+Projects
+Experience
+About
+Contact
+View Resume (PDF, opens in a new tab)↗
+Design · Manufacturing · Research
+Engineering Projects and Experience
+These projects cover my work in CAD, prototyping, manufacturing, and research. Each case study explains what I worked on and what I learned.
+CAD and prototype images to be addedEngineering ProjectDesign · Additive Manufacturing01
+Custom Golf Putter Design & Prototyping
+I designed several mallet putter prototypes in SolidWorks and built physical versions to work through geometry, weight distribution, and assembly.
+View Case Study ↗
+Drawing Information Task5min→1minApproximate time per drawingManufacturing · Professional Experience02
+AI-Assisted Engineering Drawing Analysis Tool
+I developed an AI-assisted tool at Peterbilt that made information in engineering part drawings easier to find.
+View Case Study ↗
+Peterbilt Motors CompanyEngineering ProjectManufacturing · Professional Experience03
+Advanced Manufacturing Engineering at Peterbilt
+I used Creo Parametric, supported manufacturing engineering projects, and presented my work during a summer internship at Peterbilt Motors Company.
+View Case Study ↗
+Research setup image to be addedEngineering ProjectResearch · Design04
+Golf Putter Performance Research
+I've started putter face research under Dr. Xiang at Oklahoma State University to study how face materials and surface finishes affect ball motion.
+View Case Study ↗
+Parker ColeMechanical & Aerospace Engineering Student
+Oklahoma State University
+Download Resume ↓
+Close ×
+
+dist\work\peterbilt-ai-tool\index.html
+META viewport: width=device-width, initial-scale=1
+AI-Assisted Engineering Drawing Analysis Tool | Parker Cole
+META description: I developed an AI-assisted tool at Peterbilt that made information in engineering part drawings easier to find.
+META theme-color: #202523
+META og:title: AI-Assisted Engineering Drawing Analysis Tool | Parker Cole
+META og:description: I developed an AI-assisted tool at Peterbilt that made information in engineering part drawings easier to find.
+META og:type: website
+META og:locale: en_US
+META og:site_name: Parker Cole · Engineering Portfolio
+META og:url: https://parbro240.github.io/engineering-portfolio/work/peterbilt-ai-tool/
+META og:image: https://parbro240.github.io/engineering-portfolio/social-preview.png
+META og:image:width: 1200
+META og:image:height: 630
+META og:image:alt: Parker Cole, Mechanical & Aerospace Engineering Student at Oklahoma State University.
+META twitter:card: summary_large_image
+META twitter:image: https://parbro240.github.io/engineering-portfolio/social-preview.png
+Skip to content
+PC.Parker ColeEngineering Portfolio home
+Menu +
+Projects
+Experience
+About
+Contact
+View Resume (PDF, opens in a new tab)↗
+← All Projects
+Manufacturing · Professional Experience
+AI-Assisted Engineering Drawing Analysis Tool
+I developed an AI-assisted tool at Peterbilt that made information in engineering part drawings easier to find.
+Internship Project
+Role
+Advanced Manufacturing Engineering Intern
+Context
+Peterbilt Motors Company Internship
+Timeline
+May 2026 – August 2026
+Tools and Methods
+AI-assisted tooling · Engineering part drawings
+Certain project details have been generalized or omitted to protect proprietary information.
+Drawing Information Task5min→1minApproximate time per drawingIn This Case Study
+The Problem
+My Approach
+Result
+What I Learned
+The Problem
+During my internship at Peterbilt Motors Company, finding information in engineering part drawings was a recurring task. It took about five minutes per drawing.
+My Approach
+I developed an AI-assisted tool to make that information easier to find. I focused on reducing the time spent on this specific task within the engineering workflow.
+Result
+The tool reduced the task from about five minutes to one minute per drawing.
+What I Learned
+This project gave me experience identifying a time-consuming engineering task and using a software tool to improve it. It reinforced the value of starting with a specific problem and explaining the result clearly.
+Across the internship, I presented progress weekly and gave a final presentation to engineering leadership. That helped me develop my technical communication skills alongside the project work.
+← All Projects
+Next Case StudyAdvanced Manufacturing Engineering at Peterbilt ↗
+Parker ColeMechanical & Aerospace Engineering Student
+Oklahoma State University
+Download Resume ↓
+Close ×
+
+dist\work\peterbilt-manufacturing\index.html
+META viewport: width=device-width, initial-scale=1
+Advanced Manufacturing Engineering at Peterbilt | Parker Cole
+META description: I used Creo Parametric, supported manufacturing engineering projects, and presented my work during a summer internship at Peterbilt Motors Company.
+META theme-color: #202523
+META og:title: Advanced Manufacturing Engineering at Peterbilt | Parker Cole
+META og:description: I used Creo Parametric, supported manufacturing engineering projects, and presented my work during a summer internship at Peterbilt Motors Company.
+META og:type: website
+META og:locale: en_US
+META og:site_name: Parker Cole · Engineering Portfolio
+META og:url: https://parbro240.github.io/engineering-portfolio/work/peterbilt-manufacturing/
+META og:image: https://parbro240.github.io/engineering-portfolio/social-preview.png
+META og:image:width: 1200
+META og:image:height: 630
+META og:image:alt: Parker Cole, Mechanical & Aerospace Engineering Student at Oklahoma State University.
+META twitter:card: summary_large_image
+META twitter:image: https://parbro240.github.io/engineering-portfolio/social-preview.png
+Skip to content
+PC.Parker ColeEngineering Portfolio home
+Menu +
+Projects
+Experience
+About
+Contact
+View Resume (PDF, opens in a new tab)↗
+← All Projects
+Manufacturing · Professional Experience
+Advanced Manufacturing Engineering at Peterbilt
+I used Creo Parametric, supported manufacturing engineering projects, and presented my work during a summer internship at Peterbilt Motors Company.
+Summer 2026 Internship
+Role
+Advanced Manufacturing Engineering Intern
+Context
+Peterbilt Motors Company, Denton, Texas
+Timeline
+May 2026 – August 2026
+Tools and Methods
+Creo Parametric · Design for Assembly (DFA)
+Certain project details have been generalized or omitted to protect proprietary information.
+In This Case Study
+My Role
+CAD and Manufacturing Work
+Project Management and Communication
+Drawing Information Tool
+What I Learned
+My Role
+I worked as an Advanced Manufacturing Engineering Intern at Peterbilt Motors Company in Denton, Texas. I supported the Chassis Powertrain and Cab & Outer Body groups on several engineering projects.
+CAD and Manufacturing Work
+I created and modified 3D models in Creo Parametric and worked with engineers across different areas of the plant. This gave me practical CAD experience in a production manufacturing environment.
+I also completed Design for Assembly (DFA) coursework during the internship.
+Project Management and Communication
+I managed multiple projects at the same time and presented progress each week. At the end of the internship, I gave a final presentation to engineering leadership.
+These presentations gave me regular practice explaining technical work and communicating project progress.
+Drawing Information Tool
+I developed an AI-assisted tool that reduced the time needed to find information in part drawings from about five minutes to one minute per drawing. My
+AI-Assisted Engineering Drawing Analysis Tool
+case study covers that project.
+What I Learned
+The internship helped me build confidence using CAD in a professional setting and working with engineers from different groups. I also gained experience keeping concurrent projects organized and communicating my work to engineering leadership.
+← All Projects
+Next Case StudyGolf Putter Performance Research ↗
+Parker ColeMechanical & Aerospace Engineering Student
+Oklahoma State University
+Download Resume ↓
+Close ×
+
+dist\work\putter-design\index.html
+META viewport: width=device-width, initial-scale=1
+Custom Golf Putter Design & Prototyping | Parker Cole
+META description: I designed several mallet putter prototypes in SolidWorks and built physical versions to work through geometry, weight distribution, and assembly.
+META theme-color: #202523
+META og:title: Custom Golf Putter Design & Prototyping | Parker Cole
+META og:description: I designed several mallet putter prototypes in SolidWorks and built physical versions to work through geometry, weight distribution, and assembly.
+META og:type: website
+META og:locale: en_US
+META og:site_name: Parker Cole · Engineering Portfolio
+META og:url: https://parbro240.github.io/engineering-portfolio/work/putter-design/
+META og:image: https://parbro240.github.io/engineering-portfolio/social-preview.png
+META og:image:width: 1200
+META og:image:height: 630
+META og:image:alt: Parker Cole, Mechanical & Aerospace Engineering Student at Oklahoma State University.
+META twitter:card: summary_large_image
+META twitter:image: https://parbro240.github.io/engineering-portfolio/social-preview.png
+Skip to content
+PC.Parker ColeEngineering Portfolio home
+Menu +
+Projects
+Experience
+About
+Contact
+View Resume (PDF, opens in a new tab)↗
+← All Projects
+Design · Additive Manufacturing
+Custom Golf Putter Design & Prototyping
+I designed several mallet putter prototypes in SolidWorks and built physical versions to work through geometry, weight distribution, and assembly.
+Iterative Prototyping
+Role
+Designer and Prototype Builder
+Context
+Personal Engineering Project
+Timeline
+Personal Project
+Tools and Methods
+SolidWorks · Bambu P1S · 3D printing · DFA and DFM
+CAD and prototype images to be addedEngineering ProjectIn This Case Study
+Project Overview
+Design and Prototyping
+Modular Face and Assembly
+Current Design
+What I Learned
+Related Research
+Project Overview
+This personal project combines my interest in golf club design with CAD and hands-on prototyping. I designed custom mallet putters with a focus on head geometry, weight distribution, and assembly.
+Design and Prototyping
+I developed several versions in SolidWorks and built physical prototypes using 3D printing and molded components. I use a Bambu P1S for 3D printing.
+Working with physical parts helped me consider assembly and manufacturing alongside the CAD geometry. I used repeated prototyping to guide design revisions.
+Modular Face and Assembly
+I developed a screw-on face concept so the face could be removed and reassembled. I considered fastening methods, heat-set inserts, and printable geometry as part of the design.
+I applied Design for Assembly (DFA) and Design for Manufacturability (DFM) principles to the putter and its components.
+Current Design
+I’ve built multiple physical prototypes and continue to develop the design. My current focus is the putter’s geometry, modular assembly, and manufacturability.
+What I Learned
+The project has given me practical experience moving between a CAD model and physical parts. It has also helped me connect design decisions with the steps needed to manufacture and assemble a prototype.
+Related Research
+I’ve started putter face research under Dr. Xiang at Oklahoma State University. I’m studying how face materials and surface finishes affect ball behavior after impact. That work is described in my
+Golf Putter Performance Research
+case study.
+Design Documentation
+Project Images
+01CAD image to be addedPutter head geometry in SolidWorks02Prototype photo to be added3D-printed physical prototype03Assembly detail photo to be addedModular face, fasteners, and heat-set inserts
+← All Projects
+Next Case StudyAI-Assisted Engineering Drawing Analysis Tool ↗
+Parker ColeMechanical & Aerospace Engineering Student
+Oklahoma State University
+Download Resume ↓
+Close ×
+
+dist\work\research-putting-performance\index.html
+META viewport: width=device-width, initial-scale=1
+Golf Putter Performance Research | Parker Cole
+META description: I've started putter face research under Dr. Xiang at Oklahoma State University to study how face materials and surface finishes affect ball motion.
+META theme-color: #202523
+META og:title: Golf Putter Performance Research | Parker Cole
+META og:description: I've started putter face research under Dr. Xiang at Oklahoma State University to study how face materials and surface finishes affect ball motion.
+META og:type: website
+META og:locale: en_US
+META og:site_name: Parker Cole · Engineering Portfolio
+META og:url: https://parbro240.github.io/engineering-portfolio/work/research-putting-performance/
+META og:image: https://parbro240.github.io/engineering-portfolio/social-preview.png
+META og:image:width: 1200
+META og:image:height: 630
+META og:image:alt: Parker Cole, Mechanical & Aerospace Engineering Student at Oklahoma State University.
+META twitter:card: summary_large_image
+META twitter:image: https://parbro240.github.io/engineering-portfolio/social-preview.png
+Skip to content
+PC.Parker ColeEngineering Portfolio home
+Menu +
+Projects
+Experience
+About
+Contact
+View Resume (PDF, opens in a new tab)↗
+← All Projects
+Research · Design
+Golf Putter Performance Research
+I've started putter face research under Dr. Xiang at Oklahoma State University to study how face materials and surface finishes affect ball motion.
+Research Underway
+Role
+Undergraduate Research
+Context
+Oklahoma State University
+Timeline
+Research Underway
+Tools and Methods
+Research planning
+Research setup image to be addedEngineering ProjectIn This Case Study
+Research Overview
+What I Want to Compare
+Possible Test Methods
+Ongoing Work
+Research Overview
+I’ve started putter face research under Dr. Xiang at Oklahoma State University. I want to understand how different face materials and surface finishes affect what a golf ball does immediately after impact.
+I’m interested in the ball’s bounce, skid, spin, and transition to true roll. This research builds on my work designing and prototyping custom putters.
+What I Want to Compare
+How different face materials affect the ball’s initial motion.
+How surface finishes change the ball’s behavior after contact.
+How those differences relate to bounce, skid, spin, and true roll.
+Possible Test Methods
+High-speed video and ball tracking could help me study the ball’s motion. Marked golf balls could help track rotation.
+A controlled putting or pendulum-style setup could allow comparisons between face materials and surface finishes.
+Ongoing Work
+As the research progresses, I’ll use this page to share the test setup, measurements, and findings.
+← All Projects
+Next Case StudyCustom Golf Putter Design & Prototyping ↗
+Parker ColeMechanical & Aerospace Engineering Student
+Oklahoma State University
+Download Resume ↓
+Close ×

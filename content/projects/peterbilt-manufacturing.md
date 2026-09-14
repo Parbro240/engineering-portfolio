@@ -1,39 +1,41 @@
 ---
-title: "Advanced manufacturing engineering at Peterbilt"
-subtitle: "Professional CAD, cross-functional engineering work, and project communication in a manufacturing environment."
-date: "May 2026 – Aug 2026"
+title: "Advanced Manufacturing Engineering at Peterbilt"
+subtitle: "I used Creo Parametric, supported manufacturing engineering projects, and presented my work during a summer internship at Peterbilt Motors Company."
+date: "May 2026 – August 2026"
 role: "Advanced Manufacturing Engineering Intern"
-type: "Peterbilt Motors Company · Denton, Texas"
-tools: ["Creo Parametric", "Design for Assembly", "Project presentations"]
+type: "Peterbilt Motors Company, Denton, Texas"
+tools: ["Creo Parametric", "Design for Assembly (DFA)"]
 categories: ["Manufacturing", "Professional Experience"]
 featured: false
 order: 3
 draft: false
-status: "Summer 2026"
+status: "Summer 2026 Internship"
 confidential: true
 coverImage: ""
 coverAlt: ""
-coverPlaceholder: "Project visuals omitted for confidentiality"
+coverPlaceholder: "Peterbilt Motors Company"
 gallery: []
 ---
-## Engineering context
+## My Role
 
-I worked within Advanced Manufacturing Engineering, supporting the Chassis Powertrain and Cab & Outer Body groups. The role involved multiple engineering projects and collaboration with engineers across different areas of the plant.
+I worked as an Advanced Manufacturing Engineering Intern at Peterbilt Motors Company in Denton, Texas. I supported the Chassis Powertrain and Cab & Outer Body groups on several engineering projects.
 
-## CAD & manufacturing support
+## CAD and Manufacturing Work
 
-I created and modified engineering 3D models in Creo, developing practical CAD experience in a production manufacturing environment. Specific component designs, production processes, and internal model details are not included in this public summary.
+I created and modified 3D models in Creo Parametric and worked with engineers across different areas of the plant. This gave me practical CAD experience in a production manufacturing environment.
 
-## Project coordination & communication
+I also completed Design for Assembly (DFA) coursework during the internship.
 
-I managed multiple concurrent projects and shared progress through weekly presentations. The internship concluded with a final presentation to engineering leadership.
+## Project Management and Communication
 
-This work developed my project-management and professional engineering communication experience while collaborating with engineers and cross-functional teams.
+I managed multiple projects at the same time and presented progress each week. At the end of the internship, I gave a final presentation to engineering leadership.
 
-## Design for Assembly
+These presentations gave me regular practice explaining technical work and communicating project progress.
 
-I completed Design for Assembly training/coursework during the internship, adding to my manufacturing and assembly knowledge.
+## Drawing Information Tool
 
-## A measurable project
+I developed an AI-assisted tool that reduced the time needed to find information in part drawings from about five minutes to one minute per drawing. My [AI-Assisted Engineering Drawing Analysis Tool](../peterbilt-ai-tool/) case study covers that project.
 
-One project was an AI-assisted tool for finding information in engineering part drawings. It reduced a recurring task from approximately five minutes to one minute per drawing. A separate case study explains the public scope and result.
+## What I Learned
+
+The internship helped me build confidence using CAD in a professional setting and working with engineers from different groups. I also gained experience keeping concurrent projects organized and communicating my work to engineering leadership.

@@ -4,6 +4,6 @@ import ProjectCard from '../../components/ProjectCard.astro';
 import {projects} from '../../lib/content';
 const all = await projects();
 ---
-<Base title="Engineering projects & experience | Parker Cole" description="Explore Parker Cole's custom putter prototypes, Peterbilt manufacturing experience, AI-assisted drawing tool, and developing putter performance research.">
-  <div class="container"><header class="page-heading"><p class="eyebrow orange">Design / Manufacturing / Research</p><h1>Selected engineering work<span class="orange">.</span></h1><p>Personal prototypes, professional engineering experience, and questions worth investigating.</p></header><div class="project-grid all-work">{all.map((project,index) => <ProjectCard project={project} index={index} />)}</div></div>
+<Base title="Engineering Projects and Experience | Parker Cole" description="My engineering projects include custom putter prototypes, advanced manufacturing work at Peterbilt, an AI-assisted drawing tool, and putter face research.">
+  <div class="container"><header class="page-heading"><p class="eyebrow orange">Design · Manufacturing · Research</p><h1>Engineering Projects and Experience</h1><p>These projects cover my work in CAD, prototyping, manufacturing, and research. Each case study explains what I worked on and what I learned.</p></header><div class="project-grid all-work">{all.map((project,index) => <ProjectCard project={project} index={index} />)}</div></div>
 </Base>

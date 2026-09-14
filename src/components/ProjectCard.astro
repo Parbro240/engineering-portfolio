@@ -10,10 +10,10 @@ const p = project.data;
   <a class="project-card-link" href={href(`work/${project.id}/`)}>
     <ProjectVisual src={p.coverImage} alt={p.coverAlt} placeholder={p.coverPlaceholder} metric={p.metric} />
     <div class="project-card-copy">
-      <div class="project-topline"><span class="eyebrow">{p.categories.join(' / ')}</span><span class="project-number" aria-hidden="true">{String(index+1).padStart(2,'0')}</span></div>
+      <div class="project-topline"><span class="eyebrow">{p.categories.join(' · ')}</span><span class="project-number" aria-hidden="true">{String(index+1).padStart(2,'0')}</span></div>
       <h3>{p.title}</h3>
       <p>{p.subtitle}</p>
-      <span class="project-link-label">View case study <span aria-hidden="true">↗</span></span>
+      <span class="project-link-label">View Case Study <span aria-hidden="true">↗</span></span>
     </div>
   </a>
 </article>

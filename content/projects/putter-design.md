@@ -1,54 +1,50 @@
 ---
-title: "Custom golf putter design & prototyping"
-subtitle: "From SolidWorks models to physical mallet putter prototypes, with a focus on geometry, assembly, and manufacturability."
-date: "Personal project"
-role: "Designer & prototype builder"
-type: "Personal engineering project"
-tools: ["SolidWorks", "Bambu P1S", "Additive manufacturing", "DFA / DFM"]
+title: "Custom Golf Putter Design & Prototyping"
+subtitle: "I designed several mallet putter prototypes in SolidWorks and built physical versions to work through geometry, weight distribution, and assembly."
+date: "Personal Project"
+role: "Designer and Prototype Builder"
+type: "Personal Engineering Project"
+tools: ["SolidWorks", "Bambu P1S", "3D printing", "DFA and DFM"]
 categories: ["Design", "Additive Manufacturing"]
 featured: true
 order: 1
 draft: false
-status: "Iterative prototyping"
+status: "Iterative Prototyping"
 coverImage: ""
 coverAlt: ""
-coverPlaceholder: "CAD & prototype images to be added"
+coverPlaceholder: "CAD and prototype images to be added"
 gallery:
   - placeholder: "CAD image to be added"
-    caption: "Design geometry · SolidWorks model"
+    caption: "Putter head geometry in SolidWorks"
   - placeholder: "Prototype photo to be added"
-    caption: "Physical iteration · Additive manufacturing"
+    caption: "3D-printed physical prototype"
   - placeholder: "Assembly detail photo to be added"
-    caption: "Modular face · Fasteners and heat-set inserts"
+    caption: "Modular face, fasteners, and heat-set inserts"
 ---
-## The design challenge
+## Project Overview
 
-Develop a custom mallet putter through repeated CAD and physical prototype iterations. The work focuses on head geometry, mass distribution, and how a modular design can be manufactured and assembled.
+This personal project combines my interest in golf club design with CAD and hands-on prototyping. I designed custom mallet putters with a focus on head geometry, weight distribution, and assembly.
 
-## My contribution
+## Design and Prototyping
 
-I designed and iterated multiple putter prototypes in SolidWorks. I developed a modular screw-on face concept and fabricated physical prototypes using additive manufacturing and molded components.
+I developed several versions in SolidWorks and built physical prototypes using 3D printing and molded components. I use a Bambu P1S for 3D printing.
 
-The project connects mechanical design with practical decisions about fastening methods, heat-set inserts, and printable geometries for repeated assembly and testing.
+Working with physical parts helped me consider assembly and manufacturing alongside the CAD geometry. I used repeated prototyping to guide design revisions.
 
-## Design decisions
+## Modular Face and Assembly
 
-### Geometry & mass distribution
+I developed a screw-on face concept so the face could be removed and reassembled. I considered fastening methods, heat-set inserts, and printable geometry as part of the design.
 
-Head geometry and mass distribution were central design considerations throughout the CAD iterations. No final dimensions or mass specifications are presented here.
+I applied Design for Assembly (DFA) and Design for Manufacturability (DFM) principles to the putter and its components.
 
-### Modular face & assembly
+## Current Design
 
-The screw-on face concept introduces a removable component into the putter design. Fastening methods and heat-set inserts are part of the assembly work, alongside Design for Assembly principles.
+I've built multiple physical prototypes and continue to develop the design. My current focus is the putter's geometry, modular assembly, and manufacturability.
 
-### Manufacturability & physical iteration
+## What I Learned
 
-I used additive manufacturing to create multiple physical prototypes, with a Bambu P1S as part of my prototyping tools. Printable geometry and molded components informed the approach to building and revising the design.
+The project has given me practical experience moving between a CAD model and physical parts. It has also helped me connect design decisions with the steps needed to manufacture and assemble a prototype.
 
-## Current state
+## Related Research
 
-Multiple physical prototypes have been made. The work shown here represents design and prototyping development; measured putting-performance results and a final design specification are not yet included.
-
-## Connection to research
-
-My interest in putter design also extends to how face materials and surface finishes affect ball behavior after impact. The separate research page describes that developing research direction.
+I've started putter face research under Dr. Xiang at Oklahoma State University. I'm studying how face materials and surface finishes affect ball behavior after impact. That work is described in my [Golf Putter Performance Research](../research-putting-performance/) case study.

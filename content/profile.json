@@ -11,43 +11,102 @@
   "phone": "(940) 808-2777",
   "phoneLink": "+19408082777",
   "linkedin": "https://www.linkedin.com/in/parker-cole-engineering",
-  "intro": "I design, build, and iterate physical prototypes — connecting CAD, manufacturing, and hands-on engineering.",
+  "intro": "I enjoy mechanical design, CAD, and building physical prototypes. At Peterbilt, I gained experience in advanced manufacturing engineering.",
   "bio": [
-    "I'm a Mechanical and Aerospace Engineering student at Oklahoma State University with a Mathematics minor. I enjoy turning concepts into physical hardware, then working through the details that make a design practical to build and assemble.",
-    "My work spans custom putter prototypes in SolidWorks and advanced manufacturing engineering at Peterbilt. I'm looking for engineering internship opportunities where I can contribute to design, manufacturing, and prototyping while continuing to develop my technical skills."
+    "I'm a Mechanical & Aerospace Engineering Student at Oklahoma State University, with a minor in Mathematics and a 4.00 GPA. I enjoy using CAD and manufacturing methods to build and improve physical prototypes.",
+    "I've designed custom putter prototypes in SolidWorks and worked with Creo Parametric during my internship at Peterbilt Motors Company. I'm looking for engineering internships where I can contribute to design, manufacturing, and prototyping while gaining more hands-on experience."
   ],
   "skills": [
-    { "category": "CAD & design", "items": ["SolidWorks · Certified SolidWorks Associate (CSWA)", "Creo Parametric · assemblies and drawings"] },
-    { "category": "Manufacturing", "items": ["Design for Assembly (DFA)", "Design for Manufacturability (DFM)", "Manual lathe & mill", "Additive manufacturing / 3D printing", "Rapid prototyping"] },
-    { "category": "Programming & tools", "items": ["Python", "Microsoft Office Suite"] },
-    { "category": "Engineering communication", "items": ["Weekly project presentations", "Project management", "Cross-functional collaboration"] }
+    {
+      "category": "CAD and Design",
+      "items": [
+        "SolidWorks",
+        "Certified SolidWorks Associate (CSWA)",
+        "Creo Parametric (assemblies and drawings)"
+      ]
+    },
+    {
+      "category": "Manufacturing and Prototyping",
+      "items": [
+        "Design for Assembly (DFA)",
+        "Design for Manufacturability (DFM)",
+        "Manual lathe and mill",
+        "Additive manufacturing and 3D printing",
+        "Rapid prototyping"
+      ]
+    },
+    {
+      "category": "Programming and Tools",
+      "items": [
+        "Python",
+        "Microsoft Office Suite"
+      ]
+    },
+    {
+      "category": "Professional Skills",
+      "items": [
+        "Project management",
+        "Technical communication",
+        "Cross-functional collaboration"
+      ]
+    }
   ],
   "experience": [
     {
       "company": "Peterbilt Motors Company",
       "role": "Advanced Manufacturing Engineering Intern",
-      "date": "May 2026 – Aug 2026",
+      "date": "May 2026 – August 2026",
       "location": "Denton, Texas",
-      "points": ["Supported the Chassis Powertrain and Cab & Outer Body groups across multiple engineering projects.", "Created and modified 3D models in Creo in a production manufacturing environment.", "Developed an AI-assisted drawing information tool; reduced a recurring task from approximately 5 to 1 minute per drawing.", "Presented progress weekly and delivered a final presentation to engineering leadership."],
+      "points": [
+        "I supported the Chassis Powertrain and Cab & Outer Body groups on several advanced manufacturing engineering projects.",
+        "I created and modified 3D models in Creo Parametric and worked with engineers across different areas of the plant.",
+        "I developed an AI-assisted tool that reduced the time needed to find information in part drawings from about five minutes to one minute per drawing.",
+        "I managed concurrent projects, presented progress each week, and gave a final presentation to engineering leadership."
+      ],
       "project": "peterbilt-manufacturing"
     },
     {
       "company": "Little Guys Movers",
       "role": "Mover / Navigator",
-      "date": "May 2025 – Aug 2025",
-      "points": ["Promoted from Mover to Navigator within two weeks.", "Planned truck layouts and coordinated with teammates and customers to complete moves safely and on schedule."]
+      "date": "May 2025 – August 2025",
+      "points": [
+        "I was promoted from Mover to Navigator within two weeks.",
+        "I planned truck layouts and coordinated with teammates and customers to complete moves safely and on schedule."
+      ]
     },
     {
       "company": "Sam's Club",
       "role": "Merchandise & Stocking Associate",
-      "date": "May 2024 – Jul 2024",
-      "points": ["Managed inventory, product placement, and restocking while assisting customers and supporting store operations."]
+      "date": "May 2024 – July 2024",
+      "points": [
+        "I managed inventory, arranged and restocked merchandise, and helped customers while working with the store team."
+      ]
     }
   ],
   "leadership": [
-    { "name": "Cowboy Golf Club", "role": "Founder & President · Pending University Approval", "date": "Aug 2026 – Present", "detail": "Leading the development of a proposed student golf organization and coordinating with the CSO toward official recognition." },
-    { "name": "Cowboy Rocketworks", "role": "Member", "date": "Jan 2026 – Present", "detail": "Oklahoma State University" },
-    { "name": "OSU Running Club", "role": "Member", "date": "Feb 2026 – Present", "detail": "Oklahoma State University" },
-    { "name": "OSU Bands", "role": "Marching Band, University Band, Jazz Ensemble", "date": "Aug 2024 – May 2026", "detail": "Oklahoma State University" }
+    {
+      "name": "Cowboy Golf Club",
+      "role": "Founder & President · Pending University Approval",
+      "date": "August 2026 – Present",
+      "detail": "I'm working with the university to establish Cowboy Golf Club and complete the approval process."
+    },
+    {
+      "name": "Cowboy Rocketworks",
+      "role": "Member",
+      "date": "January 2026 – Present",
+      "detail": "Oklahoma State University"
+    },
+    {
+      "name": "Oklahoma State University Running Club",
+      "role": "Member",
+      "date": "February 2026 – Present",
+      "detail": "Oklahoma State University"
+    },
+    {
+      "name": "Oklahoma State University Bands",
+      "role": "Marching Band, University Band, Jazz Ensemble",
+      "date": "August 2024 – May 2026",
+      "detail": "Oklahoma State University"
+    }
   ]
 }

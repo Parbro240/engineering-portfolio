@@ -1,37 +1,37 @@
 ---
-title: "Your project title"
+title: "Your Project Title"
 subtitle: "One sentence describing your contribution and the supported outcome."
 date: "Month Year – Month Year"
-role: "Your specific role"
+role: "Your Specific Role"
 type: "Personal / Course / Research / Internship"
 tools: ["Tool used"]
 categories: ["Design"]
 featured: false
 order: 10
 draft: true
-status: "In progress"
+status: "In Progress"
 confidential: false
 coverImage: ""
 coverAlt: ""
 coverPlaceholder: "Project image to be added"
 gallery: []
 ---
-## The problem
+## The Problem
 
-Explain the engineering need and relevant constraints.
+Explain the engineering need and relevant constraints in plain language. Use first person to describe your own work.
 
-## My contribution
+## My Contribution
 
 Describe what you personally designed, built, analyzed, or tested.
 
-## Design process
+## Design Process
 
 Explain a design decision and the evidence behind a revision.
 
-## Current state & results
+## Current Work and Results
 
 Include only verified outcomes. Distinguish plans from completed work.
 
-## What I learned
+## What I Learned
 
 Write a specific reflection grounded in your experience.

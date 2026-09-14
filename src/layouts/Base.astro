@@ -2,8 +2,8 @@
 import '../styles/global.css';
 import {profile, href} from '../lib/content';
 interface Props { title?: string; description?: string; noindex?: boolean; }
-const {title = `${profile.name} | Mechanical & Aerospace Engineering`, description = "Parker Cole's engineering portfolio: mechanical design, CAD, additive manufacturing, physical prototyping, and advanced manufacturing experience at Peterbilt.", noindex = false} = Astro.props;
-const canonical = Astro.site ? new URL(Astro.url.pathname, Astro.site).href : undefined;
+const {title = `${profile.name} | ${profile.discipline}`, description = "I'm Parker Cole, a Mechanical & Aerospace Engineering Student at Oklahoma State University. View my design projects, prototypes, and Peterbilt internship work.", noindex = false} = Astro.props;
+const canonical = Astro.site && !noindex ? new URL(Astro.url.pathname, Astro.site).href : undefined;
 const socialImage = Astro.site ? new URL(href('social-preview.png'), Astro.site).href : undefined;
 ---
 <!doctype html>
@@ -19,21 +19,21 @@ const socialImage = Astro.site ? new URL(href('social-preview.png'), Astro.site)
   <meta property="og:type" content="website" /><meta property="og:locale" content="en_US" />
   <meta property="og:site_name" content="Parker Cole · Engineering Portfolio" />
   {canonical && <meta property="og:url" content={canonical} />}
-  {socialImage && <><meta property="og:image" content={socialImage} /><meta property="og:image:width" content="1200" /><meta property="og:image:height" content="630" /><meta property="og:image:alt" content="Parker Cole. Mechanical & Aerospace Engineering. Oklahoma State University." /><meta name="twitter:card" content="summary_large_image" /><meta name="twitter:image" content={socialImage} /></>}
+  {socialImage && <><meta property="og:image" content={socialImage} /><meta property="og:image:width" content="1200" /><meta property="og:image:height" content="630" /><meta property="og:image:alt" content="Parker Cole, Mechanical & Aerospace Engineering Student at Oklahoma State University." /><meta name="twitter:card" content="summary_large_image" /><meta name="twitter:image" content={socialImage} /></>}
   <link rel="icon" type="image/svg+xml" href={href('favicon.svg')} />
 </head>
 <body>
   <a class="skip-link" href="#main">Skip to content</a>
   <header class="site-header"><div class="header-inner">
-    <a class="brand" href={href()}><span class="brand-mark" aria-hidden="true">PC<span>.</span></span><span>Parker Cole<span class="brand-sub">Engineering portfolio</span></span><span class="sr-only"> home</span></a>
+    <a class="brand" href={href()}><span class="brand-mark" aria-hidden="true">PC<span>.</span></span><span>Parker Cole<span class="brand-sub">Engineering Portfolio</span></span><span class="sr-only"> home</span></a>
     <button class="menu-toggle" type="button" aria-expanded="false" aria-controls="main-nav">Menu <span aria-hidden="true">+</span></button>
     <nav id="main-nav" class="main-nav" aria-label="Main navigation">
-      <a href={href('work/')}>Work</a><a href={href('#experience')}>Experience</a><a href={href('#about')}>About</a><a href={href('#contact')}>Contact</a>
-      <a class="nav-resume" href={href('resume.pdf')} target="_blank" rel="noopener">View resume <span class="sr-only">(PDF, opens in a new tab)</span><span aria-hidden="true">↗</span></a>
+      <a href={href('work/')}>Projects</a><a href={href('#experience')}>Experience</a><a href={href('#about')}>About</a><a href={href('#contact')}>Contact</a>
+      <a class="nav-resume" href={href('resume.pdf')} target="_blank" rel="noopener">View Resume <span class="sr-only">(PDF, opens in a new tab)</span><span aria-hidden="true">↗</span></a>
     </nav>
   </div></header>
   <main id="main" tabindex="-1"><slot /></main>
-  <footer class="site-footer"><div class="container footer-inner"><a href={href()}>{profile.name}<span>Mechanical & Aerospace Engineering</span></a><span>Oklahoma State University</span><a href={href('resume.pdf')} download="Parker_Cole_Resume.pdf">Download resume <span aria-hidden="true">↓</span></a></div></footer>
+  <footer class="site-footer"><div class="container footer-inner"><a href={href()}>{profile.name}<span>{profile.discipline}</span></a><span>Oklahoma State University</span><a href={href('resume.pdf')} download="Parker_Cole_Resume.pdf">Download Resume <span aria-hidden="true">↓</span></a></div></footer>
   <dialog id="image-dialog" aria-label="Enlarged project image"><div class="dialog-toolbar"><p id="dialog-caption"></p><button type="button" id="close-image">Close <span aria-hidden="true">×</span></button></div><img id="dialog-image" alt="" /></dialog>
   <script>
     const menu = document.querySelector<HTMLButtonElement>('.menu-toggle');

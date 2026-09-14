@@ -1,42 +1,36 @@
 ---
-title: "AI-assisted Engineering Drawing Analysis Tool"
-subtitle: "Reduced a recurring drawing-information task from approximately five minutes to one minute per drawing."
-date: "May 2026 – Aug 2026"
+title: "AI-Assisted Engineering Drawing Analysis Tool"
+subtitle: "I developed an AI-assisted tool at Peterbilt that made information in engineering part drawings easier to find."
+date: "May 2026 – August 2026"
 role: "Advanced Manufacturing Engineering Intern"
-type: "Peterbilt Motors Company · Internship"
-tools: ["AI-assisted tooling", "Engineering part drawings", "Technical communication"]
+type: "Peterbilt Motors Company Internship"
+tools: ["AI-assisted tooling", "Engineering part drawings"]
 categories: ["Manufacturing", "Professional Experience"]
 featured: true
 order: 2
 draft: false
-status: "Internship project"
+status: "Internship Project"
 confidential: true
 metric: true
 coverImage: ""
 coverAlt: ""
-coverPlaceholder: "Project visuals omitted for confidentiality"
+coverPlaceholder: "Peterbilt Motors Company"
 gallery: []
 ---
-## The problem
+## The Problem
 
-Locating information in engineering part drawings was a recurring task during my Advanced Manufacturing Engineering internship. The task took approximately five minutes per drawing.
+During my internship at Peterbilt Motors Company, finding information in engineering part drawings was a recurring task. It took about five minutes per drawing.
 
-## My contribution
+## My Approach
 
-I developed an AI-assisted tool to help locate information in engineering part drawings. The work addressed a specific information-retrieval task within the engineering workflow.
+I developed an AI-assisted tool to make that information easier to find. I focused on reducing the time spent on this specific task within the engineering workflow.
 
 ## Result
 
-The recurring task decreased from approximately five minutes to approximately one minute per drawing. These are approximate task timings; they do not describe drawing-generation time, engineering approval time, or plant-wide productivity.
+The tool reduced the task from about five minutes to one minute per drawing.
 
-## Engineering context
+## What I Learned
 
-The project was part of an internship supporting the Chassis Powertrain and Cab & Outer Body groups. Across the internship, I worked on multiple projects and communicated progress through weekly presentations and a final presentation to engineering leadership.
+This project gave me experience identifying a time-consuming engineering task and using a software tool to improve it. It reinforced the value of starting with a specific problem and explaining the result clearly.
 
-## Professional development
-
-The internship developed my experience in managing concurrent engineering projects and presenting technical progress. This tool provided a concrete example of applying software-assisted problem solving to a recurring engineering task.
-
-## Public case-study scope
-
-Internal drawings, source code, implementation architecture, and production details are omitted. This summary documents the problem category, my contribution, and the approximate task-time improvement.
+Across the internship, I presented progress weekly and gave a final presentation to engineering leadership. That helped me develop my technical communication skills alongside the project work.

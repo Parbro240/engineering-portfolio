@@ -2,6 +2,7 @@ import { chromium, expect } from '@playwright/test';
 import AxeBuilder from '@axe-core/playwright';
 import { mkdir, writeFile } from 'node:fs/promises';
 import assert from 'node:assert/strict';
+const output=process.env.QA_OUTPUT || 'qa';
 const origin=process.env.QA_URL || 'http://127.0.0.1:4321/';
 const browser=await chromium.launch({headless:true, ...(process.env.CHROME_PATH ? {executablePath:process.env.CHROME_PATH} : {})});
 const context=await browser.newContext();
@@ -12,7 +13,7 @@ page.on('console', m=>{if(m.type()==='error') errors.push(m.text());});
 const pages=['','work/','work/putter-design/','work/peterbilt-ai-tool/','work/peterbilt-manufacturing/','work/research-putting-performance/','404.html'];
 const widths=[1440,1024,768,430,390,375,320];
 const results=[];
-await mkdir('qa/screenshots',{recursive:true});
+await mkdir(`${output}/screenshots`,{recursive:true});
 for(const width of widths){
   await page.setViewportSize({width,height:width<768?844:1000});
   for(const route of pages){
@@ -23,13 +24,24 @@ for(const width of widths){
     const brokenImages=await page.locator('img').evaluateAll(imgs=>imgs.filter(i=>i.getAttribute('src') && (!i.complete||i.naturalWidth===0)).map(i=>i.src));
     assert.equal(brokenImages.length,0,`Broken images ${route}`);
     assert.equal(await page.locator('h1').count(),1);
+    if(width >= 768){
+      const headerFits=await page.evaluate(()=>{
+        const brand=document.querySelector('.brand').getBoundingClientRect();
+        const nav=document.querySelector('#main-nav').getBoundingClientRect();
+        return brand.right <= nav.left;
+      });
+      assert(headerFits, `Header collision ${width}/${route}`);
+    }
+    if(width===768||width===320){
+      await page.screenshot({path:`${output}/screenshots/${width}-${route.replaceAll('/','-')||'homepage'}.png`});
+    }
     const axe=await new AxeBuilder({page}).withTags(['wcag2a','wcag2aa','wcag21aa','wcag22aa']).analyze();
     assert.equal(axe.violations.length,0,`Accessibility ${width}/${route}: ${JSON.stringify(axe.violations.map(v=>({id:v.id,nodes:v.nodes.map(n=>n.target)})))}`);
     results.push({width,route:route||'/',overflow:false,axeViolations:0});
     if((width===1440||width===390)&&['','work/putter-design/','work/peterbilt-ai-tool/'].includes(route)){
       const label=route===''?'homepage':route.includes('putter-design')?'project':'ai-project';
-      await page.screenshot({path:`qa/screenshots/${width===1440?'desktop':'mobile'}-${label}.png`,fullPage:true});
-      if(route==='') await page.screenshot({path:`qa/screenshots/${width===1440?'desktop':'mobile'}-first-screen.png`});
+      await page.screenshot({path:`${output}/screenshots/${width===1440?'desktop':'mobile'}-${label}.png`,fullPage:true});
+      if(route==='') await page.screenshot({path:`${output}/screenshots/${width===1440?'desktop':'mobile'}-first-screen.png`});
     }
   }
 }
@@ -59,7 +71,7 @@ await menu.focus();await page.keyboard.press('Enter');
 await expect(menu).toHaveAttribute('aria-expanded','true');
 await page.keyboard.press('Escape');assert.equal(await menu.getAttribute('aria-expanded'),'false');
 assert(await menu.evaluate(e=>e===document.activeElement));
-await menu.click();await page.locator('#main-nav').getByRole('link',{name:'Work',exact:true}).click();
+await menu.click();await page.locator('#main-nav').getByRole('link',{name:'Projects',exact:true}).click();
 assert(page.url().endsWith('/work/'));
 await menu.click();await page.setViewportSize({width:1024,height:900});await page.setViewportSize({width:390,height:844});
 await expect(menu).toHaveAttribute('aria-expanded','false');
@@ -78,9 +90,9 @@ await page.emulateMedia({reducedMotion:'reduce'});assert.equal(await page.evalua
 const plain=await browser.newContext({javaScriptEnabled:false,viewport:{width:375,height:812}});
 const fallback=await plain.newPage();await fallback.goto(origin);
 assert(await fallback.locator('#main-nav').isVisible());
-await fallback.locator('#main-nav').getByRole('link',{name:'Work',exact:true}).click();assert(fallback.url().endsWith('/work/'));
+await fallback.locator('#main-nav').getByRole('link',{name:'Projects',exact:true}).click();assert(fallback.url().endsWith('/work/'));
 await plain.close();
 assert.equal(errors.length,0,`Browser errors: ${errors.join('\n')}`);
-await writeFile('qa/browser-results.json',JSON.stringify({testedAt:new Date().toISOString(),origin,cases:results,localLinksChecked:checked.size,consoleErrors:errors,mobileMenu:'passed',keyboard:'passed',textZoom:'passed',reducedMotion:'passed',noJavaScript:'passed'},null,2));
+await writeFile(`${output}/browser-results.json`,JSON.stringify({testedAt:new Date().toISOString(),origin,cases:results,localLinksChecked:checked.size,consoleErrors:errors,mobileMenu:'passed',keyboard:'passed',textZoom:'passed',reducedMotion:'passed',noJavaScript:'passed'},null,2));
 console.log(`Passed ${results.length} viewport/page checks, ${checked.size} local destinations, axe accessibility, navigation, keyboard, 200% text, reduced motion, and no-JS fallback.`);
 await browser.close();

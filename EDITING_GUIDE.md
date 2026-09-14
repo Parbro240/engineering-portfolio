@@ -33,7 +33,7 @@ Open `content/profile.json`.
 
 Keep JSON quotation marks, commas, and square brackets intact. Put a comma between entries, but not after the final entry. Use `\"` if you need a literal quotation mark inside a quoted sentence. You can add another bio paragraph as another quoted entry in the `bio` list.
 
-Project text is edited in its Markdown file. The fixed interface labels such as “View projects” are part of the page design; they do not need routine maintenance. The social-preview image contains a name and university snapshot; if these change, replace `public/social-preview.png` or regenerate it with `node scripts/create-social-preview.mjs` after installing the browser test dependency.
+Project text is edited in its Markdown file. The fixed interface labels such as “View Projects” are part of the page design; they do not need routine maintenance. The social-preview image contains a name and university snapshot; if these change, replace `public/social-preview.png` or regenerate it with `node scripts/create-social-preview.mjs` after installing the browser test dependency.
 
 ## Change skills or experience
 
@@ -142,11 +142,11 @@ The filename becomes the URL: `your-project-name.md` becomes `/work/your-project
 The `---` lines enclose the metadata. Keep those lines intact. Below the second `---`, write ordinary Markdown:
 
 ```markdown
-## The problem
+## The Problem
 
 A short paragraph explaining the engineering need.
 
-## My contribution
+## My Contribution
 
 - A specific action you took.
 - A design decision and the reason for it.
@@ -195,3 +195,13 @@ Do not add internal Peterbilt drawings or production screenshots to fill an imag
 ## Deploy changes and connect a domain
 
 Follow [README.md](README.md) for the one-time GitHub Pages setup and custom-domain instructions. After setup, committing content changes to `main` is the only routine publishing step. The workflow handles repository paths, the public site URL, the sitemap, and sharing metadata.
+
+## Writing Style
+
+Use first person and active verbs for your work: “I designed,” “I built,” and “I learned.” Explain what you did, why, and what resulted. Keep most sentences around 10–25 words. Avoid slogans, corporate language, and unsupported results.
+
+Use Title Case for project titles, section headings, official job titles, status labels, and buttons. Use sentence case for body text, captions, and skill entries. Preserve proper names such as SolidWorks and Creo Parametric. Use full month names in dates. Keep the identity “Mechanical & Aerospace Engineering Student” and the formal degree wording from your resume.
+
+Spell out the approximate five-minute-to-one-minute drawing-information result in prose; use numerals in its visual. The confidentiality flag adds one concise note per case study. Do not repeat it in the Markdown body. Keep research methods described as possible until you confirm they have been used.
+
+For the September 2026 copy revision and exact publishing steps, see [UPDATE_GUIDE.md](UPDATE_GUIDE.md) and [COPY_REVISION.md](COPY_REVISION.md).
