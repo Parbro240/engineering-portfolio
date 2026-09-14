@@ -15,12 +15,8 @@ coverAlt: "Research Pendulum Stand Cad Drawing"
 coverPlaceholder: "Research setup image to be added"
 gallery:
   - src: "projects/research/Parker_Cole_Putter_Face_Research_One_Page_Proposal.pdf"
-    alt: "One Page Research Proposal"
-    caption: "ex caption"
-  - src: "projects/research/putter_research_pendulum.png"
-    caption: "Pendulum Research Stand"
-  - placeholder: "Assembly detail photo to be added"
-    caption: "ex caption"
+    alt: "PDF of One Page Research Proposal"
+    caption: "One Page Research Proposal"
 ---
 ## Research Overview
 
