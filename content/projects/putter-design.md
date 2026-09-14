@@ -10,7 +10,7 @@ featured: true
 order: 1
 draft: false
 status: "Iterative Prototyping"
-coverImage: "src/assets/images/projects/putter/putter_prototype_cad.png"
+coverImage: "projects/putter/putter_prototype_cad.png"
 coverAlt: "Prototype CAD Drawing"
 coverPlaceholder: "CAD and prototype images to be added"
 gallery:
