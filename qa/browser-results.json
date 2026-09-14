@@ -1,0 +1,307 @@
+{
+  "testedAt": "2026-09-14T02:41:09.462Z",
+  "origin": "http://127.0.0.1:4321/",
+  "cases": [
+    {
+      "width": 1440,
+      "route": "/",
+      "overflow": false,
+      "axeViolations": 0
+    },
+    {
+      "width": 1440,
+      "route": "work/",
+      "overflow": false,
+      "axeViolations": 0
+    },
+    {
+      "width": 1440,
+      "route": "work/putter-design/",
+      "overflow": false,
+      "axeViolations": 0
+    },
+    {
+      "width": 1440,
+      "route": "work/peterbilt-ai-tool/",
+      "overflow": false,
+      "axeViolations": 0
+    },
+    {
+      "width": 1440,
+      "route": "work/peterbilt-manufacturing/",
+      "overflow": false,
+      "axeViolations": 0
+    },
+    {
+      "width": 1440,
+      "route": "work/research-putting-performance/",
+      "overflow": false,
+      "axeViolations": 0
+    },
+    {
+      "width": 1440,
+      "route": "404.html",
+      "overflow": false,
+      "axeViolations": 0
+    },
+    {
+      "width": 1024,
+      "route": "/",
+      "overflow": false,
+      "axeViolations": 0
+    },
+    {
+      "width": 1024,
+      "route": "work/",
+      "overflow": false,
+      "axeViolations": 0
+    },
+    {
+      "width": 1024,
+      "route": "work/putter-design/",
+      "overflow": false,
+      "axeViolations": 0
+    },
+    {
+      "width": 1024,
+      "route": "work/peterbilt-ai-tool/",
+      "overflow": false,
+      "axeViolations": 0
+    },
+    {
+      "width": 1024,
+      "route": "work/peterbilt-manufacturing/",
+      "overflow": false,
+      "axeViolations": 0
+    },
+    {
+      "width": 1024,
+      "route": "work/research-putting-performance/",
+      "overflow": false,
+      "axeViolations": 0
+    },
+    {
+      "width": 1024,
+      "route": "404.html",
+      "overflow": false,
+      "axeViolations": 0
+    },
+    {
+      "width": 768,
+      "route": "/",
+      "overflow": false,
+      "axeViolations": 0
+    },
+    {
+      "width": 768,
+      "route": "work/",
+      "overflow": false,
+      "axeViolations": 0
+    },
+    {
+      "width": 768,
+      "route": "work/putter-design/",
+      "overflow": false,
+      "axeViolations": 0
+    },
+    {
+      "width": 768,
+      "route": "work/peterbilt-ai-tool/",
+      "overflow": false,
+      "axeViolations": 0
+    },
+    {
+      "width": 768,
+      "route": "work/peterbilt-manufacturing/",
+      "overflow": false,
+      "axeViolations": 0
+    },
+    {
+      "width": 768,
+      "route": "work/research-putting-performance/",
+      "overflow": false,
+      "axeViolations": 0
+    },
+    {
+      "width": 768,
+      "route": "404.html",
+      "overflow": false,
+      "axeViolations": 0
+    },
+    {
+      "width": 430,
+      "route": "/",
+      "overflow": false,
+      "axeViolations": 0
+    },
+    {
+      "width": 430,
+      "route": "work/",
+      "overflow": false,
+      "axeViolations": 0
+    },
+    {
+      "width": 430,
+      "route": "work/putter-design/",
+      "overflow": false,
+      "axeViolations": 0
+    },
+    {
+      "width": 430,
+      "route": "work/peterbilt-ai-tool/",
+      "overflow": false,
+      "axeViolations": 0
+    },
+    {
+      "width": 430,
+      "route": "work/peterbilt-manufacturing/",
+      "overflow": false,
+      "axeViolations": 0
+    },
+    {
+      "width": 430,
+      "route": "work/research-putting-performance/",
+      "overflow": false,
+      "axeViolations": 0
+    },
+    {
+      "width": 430,
+      "route": "404.html",
+      "overflow": false,
+      "axeViolations": 0
+    },
+    {
+      "width": 390,
+      "route": "/",
+      "overflow": false,
+      "axeViolations": 0
+    },
+    {
+      "width": 390,
+      "route": "work/",
+      "overflow": false,
+      "axeViolations": 0
+    },
+    {
+      "width": 390,
+      "route": "work/putter-design/",
+      "overflow": false,
+      "axeViolations": 0
+    },
+    {
+      "width": 390,
+      "route": "work/peterbilt-ai-tool/",
+      "overflow": false,
+      "axeViolations": 0
+    },
+    {
+      "width": 390,
+      "route": "work/peterbilt-manufacturing/",
+      "overflow": false,
+      "axeViolations": 0
+    },
+    {
+      "width": 390,
+      "route": "work/research-putting-performance/",
+      "overflow": false,
+      "axeViolations": 0
+    },
+    {
+      "width": 390,
+      "route": "404.html",
+      "overflow": false,
+      "axeViolations": 0
+    },
+    {
+      "width": 375,
+      "route": "/",
+      "overflow": false,
+      "axeViolations": 0
+    },
+    {
+      "width": 375,
+      "route": "work/",
+      "overflow": false,
+      "axeViolations": 0
+    },
+    {
+      "width": 375,
+      "route": "work/putter-design/",
+      "overflow": false,
+      "axeViolations": 0
+    },
+    {
+      "width": 375,
+      "route": "work/peterbilt-ai-tool/",
+      "overflow": false,
+      "axeViolations": 0
+    },
+    {
+      "width": 375,
+      "route": "work/peterbilt-manufacturing/",
+      "overflow": false,
+      "axeViolations": 0
+    },
+    {
+      "width": 375,
+      "route": "work/research-putting-performance/",
+      "overflow": false,
+      "axeViolations": 0
+    },
+    {
+      "width": 375,
+      "route": "404.html",
+      "overflow": false,
+      "axeViolations": 0
+    },
+    {
+      "width": 320,
+      "route": "/",
+      "overflow": false,
+      "axeViolations": 0
+    },
+    {
+      "width": 320,
+      "route": "work/",
+      "overflow": false,
+      "axeViolations": 0
+    },
+    {
+      "width": 320,
+      "route": "work/putter-design/",
+      "overflow": false,
+      "axeViolations": 0
+    },
+    {
+      "width": 320,
+      "route": "work/peterbilt-ai-tool/",
+      "overflow": false,
+      "axeViolations": 0
+    },
+    {
+      "width": 320,
+      "route": "work/peterbilt-manufacturing/",
+      "overflow": false,
+      "axeViolations": 0
+    },
+    {
+      "width": 320,
+      "route": "work/research-putting-performance/",
+      "overflow": false,
+      "axeViolations": 0
+    },
+    {
+      "width": 320,
+      "route": "404.html",
+      "overflow": false,
+      "axeViolations": 0
+    }
+  ],
+  "localLinksChecked": 39,
+  "consoleErrors": [],
+  "mobileMenu": "passed",
+  "keyboard": "passed",
+  "textZoom": "passed",
+  "reducedMotion": "passed",
+  "noJavaScript": "passed"
+}

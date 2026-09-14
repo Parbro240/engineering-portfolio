@@ -1,0 +1,11 @@
+{
+  "testedAt": "2026-09-14T02:32:44.386Z",
+  "repositorySubpathBuild": "passed",
+  "addProjectAndFeaturedOrdering": "passed",
+  "responsiveImagesAndDialog": "passed at 1440, 768, 390, 320",
+  "noJavaScriptGallery": "passed",
+  "subpathCanonicalSocialAndSitemap": "passed",
+  "hideDraftAndCustomDomainBuild": "passed",
+  "missingAltValidation": "passed",
+  "missingFileValidation": "passed"
+}

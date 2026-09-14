@@ -1,0 +1,18 @@
+---
+import { Image, getImage } from 'astro:assets';
+import { projectImage } from '../lib/images';
+interface Item { src?: string; alt?: string; caption: string; placeholder?: string; }
+interface Props { items: Item[]; }
+const {items} = Astro.props;
+const prepared = await Promise.all(items.map(async item => {
+  const image = item.src ? projectImage(item.src) : null;
+  return { ...item, image, large: image ? (await getImage({src: image, width: Math.min(image.width, 2200), format: 'webp', quality: 90})).src : null };
+}));
+---
+{items.length > 0 && <section class="project-gallery" aria-labelledby="gallery-title">
+  <div class="section-heading"><div><span class="eyebrow">Design documentation</span><h2 id="gallery-title">From model to prototype.</h2></div></div>
+  <div class="gallery-grid">{prepared.map((item, i) => <figure>
+    {item.image && item.large ? <a class="gallery-link" href={item.large} data-lightbox data-caption={item.caption} aria-label={`Enlarge: ${item.alt}`}><Image src={item.image} alt={item.alt || ''} widths={[480,800,1200].filter(w => w <= item.image!.width)} sizes="(max-width: 700px) calc(100vw - 40px), 33vw" loading="lazy" format="webp" quality={85} /><span class="enlarge-label" aria-hidden="true">Enlarge +</span></a> : <div class="gallery-placeholder"><span class="eyebrow">{String(i+1).padStart(2,'0')}</span><span>{item.placeholder}</span></div>}
+    <figcaption>{item.caption}</figcaption>
+  </figure>)}</div>
+</section>}
