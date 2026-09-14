@@ -13,7 +13,13 @@ status: "Research Underway"
 coverImage: ""
 coverAlt: ""
 coverPlaceholder: "Research setup image to be added"
-gallery: []
+gallery:
+  - placeholder: "CAD image to be added"
+    caption: "ex caption"
+  - placeholder: "Prototype photo to be added"
+    caption: "ex caption"
+  - placeholder: "Assembly detail photo to be added"
+    caption: "ex caption"
 ---
 ## Research Overview
 
