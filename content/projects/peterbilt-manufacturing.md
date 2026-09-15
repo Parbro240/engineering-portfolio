@@ -12,7 +12,7 @@ draft: false
 status: "Summer 2026 Internship"
 confidential: true
 coverImage: "projects/peterbilt/peterbilt_final_presentation.png"
-coverAlt: ""
+coverAlt: "Peterbilt Motors Company Final Presentation"
 coverPlaceholder: "Peterbilt Motors Company"
 gallery:
   - src: "projects/peterbilt/peterbilt_profile_show_pic.png"
