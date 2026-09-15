@@ -15,7 +15,7 @@ coverAlt: "Prototype CAD Drawing"
 coverPlaceholder: "CAD and prototype images to be added"
 gallery:
   - src: "projects/putter/putter_prototype_cad.png"
-    alt: "X
+    alt: "X"
     caption: "Putter head geometry in SolidWorks"
   - src: "projects/putter/putter_initial_prototype.png"
     alt: "X"
