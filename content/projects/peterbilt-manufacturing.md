@@ -11,10 +11,13 @@ order: 3
 draft: false
 status: "Summer 2026 Internship"
 confidential: true
-coverImage: ""
+coverImage: "projects/peterbilt/peterbilt_final_presentation.jpg"
 coverAlt: ""
 coverPlaceholder: "Peterbilt Motors Company"
-gallery: []
+gallery:
+  - src: "projects/peterbilt/peterbilt_profile_show_pic.jpg"
+    alt: "Peterbilt Advanced Manufacturing"
+    caption: "Peterbilt Motors Company Advanced Manufacturing"
 ---
 ## My Role
 
