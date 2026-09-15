@@ -14,9 +14,9 @@ coverImage: "projects/research/putter_research_pendulum.png"
 coverAlt: "Research Pendulum Stand Cad Drawing"
 coverPlaceholder: "Research setup image to be added"
 gallery:
-  - src: "projects/research/Parker_Cole_Putter_Face_Research_One_Page_Proposal.pdf"
-    alt: "SolidWorks model of my custom mallet putter"
-    caption: "Putter head geometry in SolidWorks"
+  - src: "projects/research/Parker_Cole_Putter_Face_Research_One_Page_Proposal-1.png"
+    alt: "PNG of Research Proposal"
+    caption: "Research Proposal"
 ---
 ## Research Overview
 
