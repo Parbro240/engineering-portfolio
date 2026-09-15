@@ -15,10 +15,13 @@ coverAlt: "Prototype CAD Drawing"
 coverPlaceholder: "CAD and prototype images to be added"
 gallery:
   - src: "projects/putter/putter_prototype_cad.png"
+    alt: "X
     caption: "Putter head geometry in SolidWorks"
   - src: "projects/putter/putter_initial_prototype.png"
+    alt: "X"
     caption: "3D-printed physical prototype"
   - src: "projects/putter/putter_heat_incert_proto.png"
+    alt: "X"
     caption: "Modular face, fasteners, and heat-set inserts"
 ---
 ## Project Overview
